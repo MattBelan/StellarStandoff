@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 76f707ab030ff0f4f947a5f3868cf6e3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainMenu: {instanceID: 0}
+  - playerMenu: {instanceID: 0}
+  - enemyMenu: {instanceID: 0}
+  - health: {instanceID: 0}
+  - resources: {instanceID: 0}
+  - playerName: {instanceID: 0}
+  - playerTotal: {instanceID: 0}
+  - stationPre: {instanceID: 0}
+  - missilePrefab: {fileID: 1334755276076962, guid: a75d8fe2c5b1bc84e9e915b723093d5e,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
